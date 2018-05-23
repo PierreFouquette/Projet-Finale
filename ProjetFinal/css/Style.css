@@ -1,0 +1,50 @@
+.container-fluid{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.gris{
+
+    background-color: darkgray;
+}
+
+.p-center{
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+    color : white;
+}
+.col-xl-12{
+    psddding: 0;
+}
+.intro{
+    font-size: 30px;
+}
+
+
+.zoom:hover {
+    transform: scale(1.5);
+}
+
+.jaune{
+    background-color: goldenrod;
+}
+
+.map{
+    width: 100%;
+
+}
+
